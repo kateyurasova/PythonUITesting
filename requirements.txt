@@ -27,7 +27,7 @@ pytest==3.6.4
 pytest-cache==1.0
 pytest-logger==0.3.0
 python-dateutil==2.7.3
-PyYAML==3.13
+PyYAML==5.4
 requests==2.18.4
 selenium==2.53.1
 six==1.11.0
